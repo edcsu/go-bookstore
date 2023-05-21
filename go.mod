@@ -1,4 +1,4 @@
-module go-bookstore
+module github.com/edcsu/go-bookstore
 
 go 1.20
 
